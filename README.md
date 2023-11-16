@@ -19,6 +19,13 @@ Overhauled overworld - New terrain generation with new biomes and mobs.
 
 ---
 
-# Installation
+# BUGS & ISSUES
+
+If you have any issues with the mods in the modpack please create an issue report and state the problem
+Also list the version of the modpack you are using (Red Mist 1.x.x)
+
+---
+
+# INSTALLATION
 
 Aged is a modpack hosted on the modrinth website.
